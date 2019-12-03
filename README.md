@@ -1,12 +1,11 @@
 Opencv native link library based on Java
 
+[![Developer communication group](https://img.shields.io/badge/QQ1-855349515-green.svg)](https://shang.qq.com/wpa/qunwpa?idkey=0343b06591d19188d86dc078912adfc5c40f023c8ec5a0d1eda5bdfc35ab40d0)
+
 This folder contains the native libraries built for various platforms. 
 
 Authors:
 	<Wanglsir@gmail.com, 983708408@qq.com, 855349515>
-
-Developer communication group:
-	https://shang.qq.com/wpa/qunwpa?idkey=0343b06591d19188d86dc078912adfc5c40f023c8ec5a0d1eda5bdfc35ab40d0
 
 Open source reference:
 	https://github.com/wl4g/super-devops
