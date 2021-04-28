@@ -7,14 +7,18 @@ This folder contains the native libraries built for various platforms.
 Authors:
 	<Wanglsir@gmail.com, 983708408@qq.com, 855349515>
 
-Open source reference:
-	https://github.com/wl4g/super-devops
-	https://gitee.com/wl4g/super-devops
-	https://github.com/opencv/opencv
+Relevant open source project reference:</br>
+&nbsp;&nbsp;&nbsp;&nbsp;[https://github.com/wl4g/xcloud-component](https://github.com/wl4g/xcloud-component)</br>
+&nbsp;&nbsp;&nbsp;&nbsp;[https://gitee.com/wl4g/xcloud-component](https://gitee.com/wl4g/xcloud-component)</br>
+&nbsp;&nbsp;&nbsp;&nbsp;[https://github.com/wl4g/xcloud-iam](https://github.com/wl4g/xcloud-iam)</br>
+&nbsp;&nbsp;&nbsp;&nbsp;[https://gitee.com/wl4g/xcloud-iam](https://gitee.com/wl4g/xcloud-iam)</br>
+&nbsp;&nbsp;&nbsp;&nbsp;[https://github.com/wl4g/xcloud-dopaas](https://github.com/wl4g/xcloud-dopaas)</br>
+&nbsp;&nbsp;&nbsp;&nbsp;[https://gitee.com/wl4g/xcloud-dopaas](https://gitee.com/wl4g/xcloud-dopaas)</br>
+&nbsp;&nbsp;&nbsp;&nbsp;[https://github.com/opencv/opencv](https://github.com/opencv/opencv)</br>
 
-More compiled opencv native libraries references:
-	https://github.com/wl4g/super-devops-tool-opencv-native
-	https://gitee.com/wl4g/super-devops-tool-opencv-native
+More compiled opencv native libraries references:</br>
+&nbsp;&nbsp;&nbsp;&nbsp;[https://github.com/wl4g/xcloud-component-opencv-native](https://github.com/wl4g/xcloud-component-opencv-native)</br>
+&nbsp;&nbsp;&nbsp;&nbsp;[https://gitee.com/wl4g/xcloud-component-opencv-native](https://gitee.com/wl4g/xcloud-component-opencv-native)
 
 We fully retain and abide by the opencv license agreement, please refer to:
 	https://github.com/opencv/opencv/blob/master/license	
